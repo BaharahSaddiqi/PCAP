@@ -8,5 +8,7 @@ for i in range(3):
     s=3+2
     s= 5+1 
     s= 6
-print(s)
-#file
+#print(s)
+
+name = "Fardin Fahim "
+print(name)
